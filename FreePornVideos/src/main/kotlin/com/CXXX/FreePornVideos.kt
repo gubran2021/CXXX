@@ -23,8 +23,9 @@ class FreePornVideos : MainAPI() {
         "networks/bangbros" to "BangBros",
         "networks/adult-time" to "Adult Time",
         "networks/rk-com" to "Reality Kings",
-        "categories/jav-uncensored" to "Jav",
-        "networks/mom-lover" to "MILF"
+        "networks/teamskeet-com" to "Team Skeet",
+        "networks/nubiles-porn-com" to "Nubiles Porn"
+        "Naughty America-com" to "Naughty America"
 
     )
 
